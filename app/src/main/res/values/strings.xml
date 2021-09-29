@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Track It.</string>
+    <string name="mainactivity_info">TRACK YOUR PERFORMANCE.</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="email_id">Email ID</string>
+    <string name="username">Username</string>
+    <string name="regiter">REGISTER</string>
+    <string name="welcomeback">WELCOME BACK!</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="new_user">New User?</string>
+    <string name="login">LOGIN</string>
+    <string name="spinner_title">Body Part</string>
+    <string name="body_part">Body Part: </string>
+    <string name="motivation">ADD YOUR WORKOUT</string>
+    <string name="lets_go">LET\'S GO!!</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="add_sets">Add sets</string>
+    <string name="Back"> BACK</string>
+    <string name="chest">CHEST</string>
+    <string name="legs">LEGS</string>
+    <string name="shoulder">SHOULDER</string>
+    <string name="another_exercise">Add Another Exercise?</string>
+
+</resources>

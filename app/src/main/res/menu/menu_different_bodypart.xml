@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/add_new_set_different_bodyPart"
+        android:title="@string/add_sets"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_baseline_playlist_add_24">
+
+    </item>
+</menu>
